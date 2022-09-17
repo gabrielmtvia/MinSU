@@ -3,4 +3,5 @@
     <string name="title">MinSU Calculator</string>
     <string name="app_description">This is an UNOFFICIAL calculator for your SU as an international student in Denmark (how many hours you need to work to receive SU, keep track of your salary, annual allowance, holidays...). It has no relation whatsoever with Uddannelses- og Forskningsstyrelsen. By creating a profile you confirm that you understand that you are responsible for the decisions you make with the information this app provides. Use it with caution.</string>
     <string name="start_button">Create new profile</string>
+    <string name="app_logo">application logo</string>
 </resources>
