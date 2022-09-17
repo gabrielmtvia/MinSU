@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Calculadora MinSU</string>
+    <string name="app_description">Esta es una calculadora NO OFICIAL para su SU como estudiante internacional en Dinamarca (cuántas horas necesita trabajar para recibir SU, realizar un seguimiento de su salario, asignación anual, vacaciones...). No tiene relación alguna con Uddannelses- og Forskningsstyrelsen. Al crear un perfil, confirma que comprende que es responsable de las decisiones que toma con la información que proporciona esta aplicación. Úselo con precaución.</string>
+    <string name="start_button">Crear un perfil nuevo</string>
+</resources>
