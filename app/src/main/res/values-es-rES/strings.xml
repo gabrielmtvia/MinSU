@@ -5,4 +5,17 @@
     <string name="start_button">Crear un perfil nuevo</string>
     <string name="app_name">Calculadora No Oficial para tu SU</string>
     <string name="app_logo">logo de la app</string>
+    <string name="your_last_salary_gross">Tu ultimo salario (bruto)</string>
+    <string name="how_many_hours_did_you_work">Horas trabajadas</string>
+    <string name="input_percentage_in">Introduce %</string>
+    <string name="salary_calculator">Calcula tu salario</string>
+    <string name="in_kr_for_ex_12500">P.Ej. 12500.75</string>
+    <string name="for_example_82_53">P.Ej. 82.53</string>
+    <string name="ferie_penge_not_in_this_payslip">Vacaciones (NO EN ESTA NOMINA)</string>
+    <string name="fritvalg_not_in_this_payslip">Fritvalg (NO EN ESTA NOMINA)</string>
+    <string name="s_rlig_not_in_this_payslip">Særlig (NO EN ESTA NOMINA)</string>
+    <string name="do_the_magic_calculations">Hacer la magia</string>
+    <string name="your_real_gross_salary_per_hour">Tu sueldo real (bruto) por hora después de la contribución AM es (la oficina de la SU solo cuenta el salario después de la contribución AM)</string>
+    <string name="click_the_button_to_show_the_result">Clica para el resultado</string>
+    <string name="you_generated_the_total_amount">Has generado un total de dinero después de la contribución AM consistiendo en:</string>
 </resources>

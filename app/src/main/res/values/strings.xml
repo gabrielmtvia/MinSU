@@ -4,10 +4,17 @@
     <string name="app_description">This is an UNOFFICIAL calculator for your SU as an international student in Denmark (how many hours you need to work to receive SU, keep track of your salary, annual allowance, holidays...). It has no relation whatsoever with Uddannelses- og Forskningsstyrelsen. By creating a profile you confirm that you understand that you are responsible for the decisions you make with the information this app provides. Use it with caution.</string>
     <string name="start_button">Create new profile</string>
     <string name="app_logo">application logo</string>
-    <string name="your_last_salary_gross">Your last salary (gross):</string>
+    <string name="your_last_salary_gross">Your salary example (gross):</string>
     <string name="how_many_hours_did_you_work">How many hours did you work</string>
-    <string name="input_percentage_in">Input percentage in %</string>
+    <string name="input_percentage_in">Input %</string>
     <string name="salary_calculator">Salary calculator</string>
-    <string name="in_kr_for_ex_12500">In kr, for ex. 12500</string>
+    <string name="in_kr_for_ex_12500">For ex. 12500.75</string>
     <string name="for_example_82_53">For example 82.53</string>
+    <string name="ferie_penge_not_in_this_payslip">Ferie Penge (NOT IN THIS PAYSLIP)</string>
+    <string name="fritvalg_not_in_this_payslip">Fritvalg (NOT IN THIS PAYSLIP)</string>
+    <string name="s_rlig_not_in_this_payslip">Særlig (NOT IN THIS PAYSLIP)</string>
+    <string name="do_the_magic_calculations">Do the magic calculations</string>
+    <string name="your_real_gross_salary_per_hour">Your real (gross) salary per hour after AM Contribution is: (the SU office only counts the salary after AM contribution)</string>
+    <string name="click_the_button_to_show_the_result">Click the button to show the result</string>
+    <string name="you_generated_the_total_amount">You generated the total amount of money after AM contribution consisting of:</string>
 </resources>
