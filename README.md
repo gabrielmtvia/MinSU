@@ -63,4 +63,4 @@ Prioritized requirements for the app (user stories)
 12- As a user, I want that the calculator keeps track of my payslip information, so it shows me insights about my taxes, 
 			   bonuses, holiday pay, etc.
 		   
-13- As a user, I want my data to be automatically saved to the device so I don't loose information.
+13- As a user, I want my data to be automatically saved to the device so I don't lose information.
