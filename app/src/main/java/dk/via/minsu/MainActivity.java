@@ -18,12 +18,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("onCreate", "the application is running");
-        Button btn = findViewById(R.id.button);
-
-        btn.setOnClickListener(view -> startActivity(new Intent(MainActivity.this, SecondaryActivity.class)));
-    }
-
-    public void welcomeToast(View view) {
-        Toast.makeText(this, "Thank you for using the app!!", Toast.LENGTH_LONG).show();
+        Button button = findViewById(R.id.button);
     }
 }
